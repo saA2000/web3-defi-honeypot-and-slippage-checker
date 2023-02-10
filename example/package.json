@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "bignumber": "^1.1.0",
-    "web3": "^1.7.3"
+    "web3": "^1.8.1"
   }
 }
